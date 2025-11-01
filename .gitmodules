@@ -1,0 +1,10 @@
+[submodule "ProyectoIonicmar"]
+	path = ProyectoIonicmar
+	url = https://github.com/marguerr04/Fichas_medicas.git
+[submodule "Proyecto_flutter"]
+	path = Proyecto_flutter
+	url = https://github.com/marguerr04/Flutter.git
+[submodule "Proyecto_test_Laravel"]
+	path = Proyecto_test_Laravel
+	url = https://github.com/marguerr04/Laravel-ficha-medica.git
+	branch = main
